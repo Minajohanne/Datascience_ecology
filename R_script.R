@@ -4,3 +4,5 @@ library(phenocamr)
 library(phenopix)
 library(imager)
 print("DSE")
+print("ecology")
+
